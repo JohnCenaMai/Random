@@ -1,0 +1,19 @@
+{
+    "name": "admin/php-random-quotes-generator-master",
+    "description": "This library will generate a ramdom quote for you",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Noforgive",
+            "email": "maithaison1998@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RandomQuotes\\": "src/"
+        }
+    },
+    "require": {}
+
+}
